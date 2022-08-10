@@ -2,7 +2,9 @@
 Ordinalysis is a standalone application dedicated to visualize ordinal data in the feature space. 
 The objective is to select the best machine learning strategy based on ordinality's state (quality) in the latent space.
 A quantification metrics are also available for the sake of comparison between dimension reduction techniques. 
-More details about the quantification metrics can be found in the article: Zine-El-Abidine Mouad, Helin Dutagaci, and David Rousseau. "Dimensionality Reduction for Ordinal Classification." In 29th European Signal Processing Conference (EUSIPCO), pp. 1531-1535. IEEE, 2021.
+More details about the quantification metrics can be found in [1] and [2]
+[1]Zine-El-Abidine Mouad, Helin Dutagaci, and David Rousseau. "Dimensionality Reduction for Ordinal Classification." In 29th European Signal Processing Conference (EUSIPCO), pp. 1531-1535. IEEE, 2021.
+[2] Zine-El-Abidine Mouad, Helin Dutagaci,  Pejman Rasti and David Rousseau. Vers une quantification de l’interprétabilité des espaces latents. 27ème GRETSI, 2022.
     Copyright (C) 2022 Zine El Abidine Mouad
 
     This program is free software: you can redistribute it and/or modify
