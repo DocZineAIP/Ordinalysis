@@ -1,10 +1,4 @@
 # Ordinalysis 
-<img src="https://user-images.githubusercontent.com/69423919/183902533-8435c7b3-6061-42ed-a4ea-38036abccb49.png" width="300" height="250">
-Ordinalysis is a standalone application dedicated to visualize ordinal data in the feature space. 
-The objective is to select the best machine learning strategy based on ordinality's state (quality) in the latent space.
-A quantification metrics are also available for the sake of comparison between dimension reduction techniques. 
-More details about the quantification metrics can be found in [1] and [2]
-
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -18,6 +12,15 @@ More details about the quantification metrics can be found in [1] and [2]
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
+    
+<img align="center" src="https://user-images.githubusercontent.com/69423919/183902533-8435c7b3-6061-42ed-a4ea-38036abccb49.png" width="300" height="250">
+Ordinalysis is a standalone application dedicated to visualize ordinal data in the feature space. 
+The objective is to select the best machine learning strategy based on ordinality's state (quality) in the latent space.
+A quantification metrics are also available for the sake of comparison between dimension reduction techniques. 
+More details about the quantification metrics can be found in [1] and [2]
+
+
+
     
     
     
