@@ -16,6 +16,7 @@
 <p align="center">
     <img src="https://user-images.githubusercontent.com/69423919/183902533-8435c7b3-6061-42ed-a4ea-38036abccb49.png" width="300" height="250">
 </p>
+
 Ordinalysis is a standalone application dedicated to visualize ordinal data in the feature space. 
 The objective is to select the best machine learning strategy based on ordinality's state (quality) in the latent space.
 A quantification metrics are also available for the sake of comparison between dimension reduction techniques. 
