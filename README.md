@@ -22,5 +22,6 @@ More details about the quantification metrics can be found in [1] and [2]
     
 # Publications
 [1] Zine-El-Abidine Mouad, Helin Dutagaci, and David Rousseau. "Dimensionality Reduction for Ordinal Classification." In 29th European Signal Processing Conference (EUSIPCO), pp. 1531-1535. IEEE, 2021.
+
 [2] Zine-El-Abidine Mouad, Helin Dutagaci,  Pejman Rasti and David Rousseau. Vers une quantification de l’interprétabilité des espaces latents. 27ème GRETSI, 2022.
     Copyright (C) 2022 Zine El Abidine Mouad
